@@ -1,1 +1,0 @@
-[www.wings-of-war](https://wings-of-war.github.io)
