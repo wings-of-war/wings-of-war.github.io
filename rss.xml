@@ -1,4 +1,1031 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Крылья войны]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Apr 2020 13:28:11 GMT</lastBuildDate><item><title><![CDATA[МИГ-3]]></title><description><![CDATA[alt МиГ-3 представлял собой свободнонесущий низкоплан смешанной конструкции. Передняя часть фюзеляжа имела ферменную раму из стальных труб с…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/миг-3/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/миг-3/</guid><pubDate>Sat, 25 Apr 2020 20:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;img src=&quot;/12b202380662fd2b7421748295ae3522/mig_3_00.gif&quot; alt=&quot;alt&quot;&gt;&lt;/p&gt;
-&lt;p&gt;МиГ-3 представлял собой свободнонесущий низкоплан смешанной конструкции. Передняя часть фюзеляжа имела ферменную раму из стальных труб с дюралевой обшивкой. Задняя часть фюеляжа была деревянной. Крыло состояло из трёх частей: металлического центроплана, неразъёмно соединённого с фюзеляжем, и двух деревянных однолонжеронных консолей.&lt;/p&gt;
-&lt;p&gt;Профиль крыла “Кларк YH”. Механизация крыла состояла из двухсекционных элеронов типа “Фрайз”. На самолётах поздних серий устанавливались автоматические предкрылки. Шасси убирающееся трёхопорное с хвостовым колесом. Силовая установка состояла из поршневого V-образного двигателя жидкостного охлаждения АМ-35А (на части самолётов АМ-38) с трёхлопастным винтом изменяемого шага ВИШ-61Ш (на МиГ-1 - ВИШ-22Е).&lt;/p&gt;
-&lt;p&gt;Запуск двигателя осуществлялся сжатым воздухом. Фонарь кабины пилота не имел бронестекла. Его крышка сдвигалась назад на роликах. Впервые на отечественном серийном истребителе было установлено кислородное оборудование. Вооружение состояло из 12,7-мм пулемёта БС и 2 7,62-мм пулемётов ШКАС, установленных в передней части фюзеляжа над двигателем. Под крылом могли устанавливаться 6 направляющих для реактивных снарядов РС-82, подвешиваться 2 бомбы по 50-100 кг или устанавливаться 2 дополнительных 12,7-мм пулемёта БК.&lt;/p&gt;</content:encoded></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Крылья войны]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 23 May 2020 07:12:59 GMT</lastBuildDate><item><title><![CDATA[Самолеты России в Первую мировую войну]]></title><description><![CDATA[Предлагаю подборку самолетов Первой мировой  войны выпускавшихся серийно.Подобраны по странам.Начнем с самолетов Российской империи…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/россии/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/россии/</guid><pubDate>Fri, 22 May 2020 20:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Предлагаю подборку самолетов Первой мировой  войны выпускавшихся серийно.Подобраны по странам.Начнем с самолетов Российской империи.  &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/93ca1d894d93d7ce35eae16c84e8f439/4b190/samolet.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 49.32432432432432%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAUBAgME/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAZsr0hycYv8A/8QAGhAAAgMBAQAAAAAAAAAAAAAAAQMAAhEEMf/aAAgBAQABBQIvcDXqbB1Wzdi/Z//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwFX/8QAHBAAAQMFAAAAAAAAAAAAAAAAAAEDIRARQYGh/9oACAEBAAY/AsISl9Et9Jr/AP/EABoQAAIDAQEAAAAAAAAAAAAAAAABESFRQXH/2gAIAQEAAT8hcbTlCAGgCUpN+l1k4f/aAAwDAQACAAMAAAAQD8//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxACP//EABcRAQADAAAAAAAAAAAAAAAAAAARQXH/2gAIAQIBAT8Qm2X/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFxYZGh/9oACAEBAAE/EFp2xV493EK8JMfkql1cgMdQEBM7XEiSlu+mCgBoAon/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Alt-екст&quot;
+        title=&quot;Анаде&quot;
+        src=&quot;/static/93ca1d894d93d7ce35eae16c84e8f439/1c72d/samolet.jpg&quot;
+        srcset=&quot;/static/93ca1d894d93d7ce35eae16c84e8f439/a80bd/samolet.jpg 148w,
+/static/93ca1d894d93d7ce35eae16c84e8f439/1c91a/samolet.jpg 295w,
+/static/93ca1d894d93d7ce35eae16c84e8f439/1c72d/samolet.jpg 590w,
+/static/93ca1d894d93d7ce35eae16c84e8f439/4b190/samolet.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Анатра Анаде&lt;/strong&gt; ( Анатра-Декан) 1915 г.  Самолёт-разведчик &lt;strong&gt;215&lt;/strong&gt; экземпляров,&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eb748ee947d213541ae0486be732f315/c08c5/%D0%90%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D1%80.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAAQBAgMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAdKoTHRExf/EABoQAAIDAQEAAAAAAAAAAAAAAAABAgMSIhP/2gAIAQEAAQUCnbaeyOWOXWtCP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAAEBCQAAAAAAAAAAAAAAAAAyAQIQESEjgZGh/9oACAEBAAY/Alu6LlciejCUP//EABwQAQACAgMBAAAAAAAAAAAAAAEAQRFhITFRkf/aAAgBAQABPyEDVqS4luXCIkxrKQc+xa4gDROl/Z//2gAMAwEAAgADAAAAEL/v/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAh/9oACAEDAQE/EMhb/8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQIBAT8Qp//EABsQAQEBAQEAAwAAAAAAAAAAAAERACExYXGh/9oACAEBAAE/EBq9HCH77rgQJAIfJhyQA1R9BkE7HiUNeBzkrlTXimf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Анаклер&quot;
+        title=&quot;Анаклер&quot;
+        src=&quot;/static/eb748ee947d213541ae0486be732f315/1c72d/%D0%90%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D1%80.jpg&quot;
+        srcset=&quot;/static/eb748ee947d213541ae0486be732f315/a80bd/%D0%90%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D1%80.jpg 148w,
+/static/eb748ee947d213541ae0486be732f315/1c91a/%D0%90%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D1%80.jpg 295w,
+/static/eb748ee947d213541ae0486be732f315/1c72d/%D0%90%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D1%80.jpg 590w,
+/static/eb748ee947d213541ae0486be732f315/c08c5/%D0%90%D0%BD%D0%B0%D0%BA%D0%BB%D0%B5%D1%80.jpg 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Анатра Анаклер&lt;/strong&gt; (Анасаль) Самолет-разведчик    1915 г. 24 экземпляра&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9b24f6244aef14db7bc834a27b5e8269/da104/%D0%90%D0%BD%D0%B0%D1%81%D0%B0%D0%BB%D1%8C.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 63.51351351351351%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDBP/EABQBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAaqTHQZhP//EABkQAAMBAQEAAAAAAAAAAAAAAAAREgETIf/aAAgBAQABBQKtfbXY/LZZ/8QAFhEBAQEAAAAAAAAAAAAAAAAAABES/9oACAEDAQE/AYy//8QAFhEBAQEAAAAAAAAAAAAAAAAAABES/9oACAECAQE/Aa2//8QAGxAAAQQDAAAAAAAAAAAAAAAAEAABERIhMYH/2gAIAQEABj8C2or05Yf/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhMUFRsf/aAAgBAQABPyFoIsc9iOR8EFW4PJBhRsg3k//aAAwDAQACAAMAAAAQ59//xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhcf/aAAgBAwEBPxCCo2f/xAAWEQEBAQAAAAAAAAAAAAAAAAABAGH/2gAIAQIBAT8QVGL/xAAbEAEBAAMAAwAAAAAAAAAAAAABEQAhMUFxgf/aAAgBAQABPxBw4BtExA4Sqb9MgLbPHM9SoTmC5MbNyYQ8TXc//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Анасаль&quot;
+        title=&quot;Анасаль&quot;
+        src=&quot;/static/9b24f6244aef14db7bc834a27b5e8269/1c72d/%D0%90%D0%BD%D0%B0%D1%81%D0%B0%D0%BB%D1%8C.jpg&quot;
+        srcset=&quot;/static/9b24f6244aef14db7bc834a27b5e8269/a80bd/%D0%90%D0%BD%D0%B0%D1%81%D0%B0%D0%BB%D1%8C.jpg 148w,
+/static/9b24f6244aef14db7bc834a27b5e8269/1c91a/%D0%90%D0%BD%D0%B0%D1%81%D0%B0%D0%BB%D1%8C.jpg 295w,
+/static/9b24f6244aef14db7bc834a27b5e8269/1c72d/%D0%90%D0%BD%D0%B0%D1%81%D0%B0%D0%BB%D1%8C.jpg 590w,
+/static/9b24f6244aef14db7bc834a27b5e8269/da104/%D0%90%D0%BD%D0%B0%D1%81%D0%B0%D0%BB%D1%8C.jpg 809w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Анатра Анатра-ДС&lt;/strong&gt; (Анасаль) Самолет-разведчик    1916 г. более 100 экземпляров&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6a49411415c296c0081809f95a9dfb03/fff7d/%D0%92%D1%83%D0%B0%D0%B7%D0%B5%D0%BD.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAQBBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHCiInWD//EABkQAAIDAQAAAAAAAAAAAAAAAAECAAMREv/aAAgBAQABBQJesS3SxZm52JWDApUf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERAyFhcaH/2gAIAQEABj8Ctptb6LjTnCIM0/D/xAAbEAEAAwEAAwAAAAAAAAAAAAABABEhMUFRYf/aAAgBAQABPyFpizcnfAm3gl2tduoYkWWvRAVx8/ZUKyP/2gAMAwEAAgADAAAAENT/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxCJr//EABYRAQEBAAAAAAAAAAAAAAAAAAAhAf/aAAgBAgEBPxDYj//EABkQAQEBAQEBAAAAAAAAAAAAAAERIQBBMf/aAAgBAQABPxB7oiIopfZOYRnD0DYtyuc6N4hEGgl7BnRpDN84PZagNdFT7QBXv//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Вуазен&quot;
+        title=&quot;Вуазен&quot;
+        src=&quot;/static/6a49411415c296c0081809f95a9dfb03/1c72d/%D0%92%D1%83%D0%B0%D0%B7%D0%B5%D0%BD.jpg&quot;
+        srcset=&quot;/static/6a49411415c296c0081809f95a9dfb03/a80bd/%D0%92%D1%83%D0%B0%D0%B7%D0%B5%D0%BD.jpg 148w,
+/static/6a49411415c296c0081809f95a9dfb03/1c91a/%D0%92%D1%83%D0%B0%D0%B7%D0%B5%D0%BD.jpg 295w,
+/static/6a49411415c296c0081809f95a9dfb03/1c72d/%D0%92%D1%83%D0%B0%D0%B7%D0%B5%D0%BD.jpg 590w,
+/static/6a49411415c296c0081809f95a9dfb03/fff7d/%D0%92%D1%83%D0%B0%D0%B7%D0%B5%D0%BD.jpg 659w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Анатра Вуазен Иванова  1916 г Самолёт-разведчик  150 экземпляров &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/55cc094bb8514c5e9d426f88d4b46603/a6d30/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-5_%D0%9C-8.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 80.4054054054054%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAv/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAGKmbcPECf/xAAbEAACAwADAAAAAAAAAAAAAAAAAgEDEhETMf/aAAgBAQABBQKz2p9Dxy2lkXrQm2D/xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPwEn/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8BZ//EABsQAAEEAwAAAAAAAAAAAAAAAAABEBExIUGB/9oACAEBAAY/AsLRpqJnjf/EABsQAQACAgMAAAAAAAAAAAAAAAEAESExgZHh/9oACAEBAAE/IVV0HZvUq2mGyAzjqF0y5jRsGLfs/9oADAMBAAIAAwAAABBoH//EABgRAQEAAwAAAAAAAAAAAAAAAAEAETFR/9oACAEDAQE/EF2Uzq//xAAYEQEBAAMAAAAAAAAAAAAAAAABABExYf/aAAgBAgEBPxA9gcbv/8QAHRABAAICAgMAAAAAAAAAAAAAAQARIVExYXGhwf/aAAgBAQABPxBQfVcLyNdxACxPp2QYU2EWc7GcRSACmATaEIw9if/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Григорович_М-5_М-8&quot;
+        title=&quot;Григорович_М-5_М-8&quot;
+        src=&quot;/static/55cc094bb8514c5e9d426f88d4b46603/1c72d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-5_%D0%9C-8.jpg&quot;
+        srcset=&quot;/static/55cc094bb8514c5e9d426f88d4b46603/a80bd/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-5_%D0%9C-8.jpg 148w,
+/static/55cc094bb8514c5e9d426f88d4b46603/1c91a/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-5_%D0%9C-8.jpg 295w,
+/static/55cc094bb8514c5e9d426f88d4b46603/1c72d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-5_%D0%9C-8.jpg 590w,
+/static/55cc094bb8514c5e9d426f88d4b46603/a6d30/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-5_%D0%9C-8.jpg 674w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Григорович М-5 - М-8    1915 г. Летающая лодка   71 такой гидроплан&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/3b987908b94b1871cdab9cf5f6bd34c7/a12aa/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-9.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 54.05405405405405%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAG8Zp0bHtX/xAAbEAACAgMBAAAAAAAAAAAAAAAAAQIDEBESIf/aAAgBAQABBQKVqiSs2dMsH5j/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPwGn/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABcQAQADAAAAAAAAAAAAAAAAABABITH/2gAIAQEABj8CNko//8QAGhABAQEBAAMAAAAAAAAAAAAAAQARMSFRYf/aAAgBAQABPyEB0fHqM4aTQuP2b2S1v//aAAwDAQACAAMAAAAQ9w//xAAWEQEBAQAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8Qwk//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQIBAT8QGNhf/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFhccH/2gAIAQEAAT8QSElrwfsWq/EsgGirtRlTbk1uY8z24MWs/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Григорович_M_9&quot;
+        title=&quot;Григорович_M9&quot;
+        src=&quot;/static/3b987908b94b1871cdab9cf5f6bd34c7/1c72d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-9.jpg&quot;
+        srcset=&quot;/static/3b987908b94b1871cdab9cf5f6bd34c7/a80bd/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-9.jpg 148w,
+/static/3b987908b94b1871cdab9cf5f6bd34c7/1c91a/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-9.jpg 295w,
+/static/3b987908b94b1871cdab9cf5f6bd34c7/1c72d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-9.jpg 590w,
+/static/3b987908b94b1871cdab9cf5f6bd34c7/a8a14/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-9.jpg 885w,
+/static/3b987908b94b1871cdab9cf5f6bd34c7/a12aa/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-9.jpg 938w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Григорович М-9/М-19 Летающая лодка  1916 г.  212 экземпляров М-9.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 448px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/30599a8fbe4edfedb3e330cebee98ae2/fb05c/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-11.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 39.189189189189186%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAECBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAHTgCwn/8QAGRAAAwADAAAAAAAAAAAAAAAAAAEDAiIj/9oACAEBAAEFAqWRhXXqz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAABEXESMUL/2gAIAQEABj8ChZJ0dN0bg//EABgQAAMBAQAAAAAAAAAAAAAAAAABETFx/9oACAEBAAE/IULIDLO+JVfBYf/aAAwDAQACAAMAAAAQDC//xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAwEBPxCn/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8QqP/EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQVH/2gAIAQEAAT8QMsEaPYwldu5X5F1BXhxXzZ//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Григорович М-11&quot;
+        title=&quot;Григорович М-11&quot;
+        src=&quot;/static/30599a8fbe4edfedb3e330cebee98ae2/fb05c/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-11.jpg&quot;
+        srcset=&quot;/static/30599a8fbe4edfedb3e330cebee98ae2/a80bd/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-11.jpg 148w,
+/static/30599a8fbe4edfedb3e330cebee98ae2/1c91a/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-11.jpg 295w,
+/static/30599a8fbe4edfedb3e330cebee98ae2/fb05c/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-11.jpg 448w&quot;
+        sizes=&quot;(max-width: 448px) 100vw, 448px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Григорович М-11/ М-12\ М-17
+1916 г.Летающая лодка-истребитель
+61 экземпляр М-11 и М-12 из 100 заказанных&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/944893add76e96c0c79768983221f45c/82d6d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-15.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 37.16216216216216%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAEDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHSsEkL/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQIAAxIi/9oACAEBAAEFAnfQrPGWn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAMAAwAAAAAAAAAAAAAAAAABEQIhkf/aAAgBAQAGPwJqMkfTeR//xAAaEAEAAgMBAAAAAAAAAAAAAAABABExQWFx/9oACAEBAAE/IdS3aiBBe2g1qZn/2gAMAwEAAgADAAAAEAfP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGxABAQABBQAAAAAAAAAAAAAAAREAITFRYYH/2gAIAQEAAT8QAgbFhVHkx4cUEEerkoq6AdjuZ//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Григорович М-15&quot;
+        title=&quot;Григорович М-15&quot;
+        src=&quot;/static/944893add76e96c0c79768983221f45c/1c72d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-15.jpg&quot;
+        srcset=&quot;/static/944893add76e96c0c79768983221f45c/a80bd/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-15.jpg 148w,
+/static/944893add76e96c0c79768983221f45c/1c91a/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-15.jpg 295w,
+/static/944893add76e96c0c79768983221f45c/1c72d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-15.jpg 590w,
+/static/944893add76e96c0c79768983221f45c/a8a14/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-15.jpg 885w,
+/static/944893add76e96c0c79768983221f45c/82d6d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-15.jpg 962w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Григорович М-15/М-18/М-19
+1916 г. Летающая лодка-истребитель     54 экземпляра&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/590685f98001702ba4b5acca1ed83523/0a47e/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-16.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACH0lEQVQoz42Sy08TYRTF+ddMXBrjwrAxLlwZE6N/AdGEBRrjMygEow2oYGyMoUl5tKHUB4E+sGA7BdqOnTKl0ymFdrAtZTrTn187pZKw8Utu7lnce+757j0D9F673e7ntm2L7ITdx20H22dwr9e2TijJQY4qOQb6JP2w+d/Xto5oVqMkg2PMDD2j/Fti4FSZU+GkUj6OmgpyWIyTTUXYlRNshfzksjK7uSyFgkYq+ZPtmIdCZoHQ4iiel0OU85KjsFZr0Gg0BN8JeqlIPBKgrMmsfvcx7XrOr7UF4r5J0lKUnLyFrutkEiGKBRWjWmN16RXz7lvs5WIOoZJN83nqHoG3j1nxjuD/dB/P+yFePLjNpYsXuHb1CpveNzSMIse1Kq2WRf1QFbiCYVTFwHcse4aplNWeQlG4MveIoOsJYd9TAl+GGR8ZZHL0DtcHL3P35g2k+Q/sZZMc7GscHBwixdaQ4psCG2xJcer1o+66uoSdi7XMJi27gWVZVMsy36Yfsu6fY9E1hhRwseGdIqfIaIW8aK7TPGmxI4XFHmfZTqximq1/hOeuJwbsq0oXa4qCoSvoqei5uo5dNFWipGWEkB6hZZlUSml0NYae3xTHkMjurLEwO8lGdIlZ9wTydlg0m31rdX7UOWKtVue4aXLWy12FfwwNRdgkue5GinwkEZ7hh2+Cr3PjBLzjrPhfUyqke02OsTur6agyTbM74JTwL4YF1Due8bNbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Григорович М-16&quot;
+        title=&quot;Григорович М-16&quot;
+        src=&quot;/static/590685f98001702ba4b5acca1ed83523/fcda8/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-16.png&quot;
+        srcset=&quot;/static/590685f98001702ba4b5acca1ed83523/12f09/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-16.png 148w,
+/static/590685f98001702ba4b5acca1ed83523/e4a3f/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-16.png 295w,
+/static/590685f98001702ba4b5acca1ed83523/fcda8/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-16.png 590w,
+/static/590685f98001702ba4b5acca1ed83523/0a47e/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-16.png 600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Григорович М-16    1916г.Гидросамолёт-разведчик
+36 - 40 экземпляров&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a3566aa606fe45fd31b6f0003040fb9a/97cfc/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-20.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 68.24324324324324%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQL/xAAVAQEBAAAAAAAAAAAAAAAAAAADAP/aAAwDAQACEAMQAAABs5xMbicUP//EABkQAAMBAQEAAAAAAAAAAAAAAAECEQADEv/aAAgBAQABBQJuhTE0QYhbY3vf/8QAFhEAAwAAAAAAAAAAAAAAAAAAAAER/9oACAEDAQE/Aais/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHBAAAQMFAAAAAAAAAAAAAAAAABIhIgECEBEx/9oACAEBAAY/ApVI3bOikuM2P//EABsQAAMAAgMAAAAAAAAAAAAAAAABEUFRITFx/9oACAEBAAE/IZGTCfQ67OWx7AzT0pMbSVob0//aAAwDAQACAAMAAAAQ5B//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QUJ2v/8QAFhEBAQEAAAAAAAAAAAAAAAAAEQAB/9oACAECAQE/EMWwv//EABwQAQADAAMBAQAAAAAAAAAAAAEAESExQZFhsf/aAAgBAQABPxBAPY7Ty37AVioug8lrfNg8q29Py4NFZEc56l5jP//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Григорович М-20&quot;
+        title=&quot;Григорович М-20&quot;
+        src=&quot;/static/a3566aa606fe45fd31b6f0003040fb9a/1c72d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-20.jpg&quot;
+        srcset=&quot;/static/a3566aa606fe45fd31b6f0003040fb9a/a80bd/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-20.jpg 148w,
+/static/a3566aa606fe45fd31b6f0003040fb9a/1c91a/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-20.jpg 295w,
+/static/a3566aa606fe45fd31b6f0003040fb9a/1c72d/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-20.jpg 590w,
+/static/a3566aa606fe45fd31b6f0003040fb9a/97cfc/%D0%93%D1%80%D0%B8%D0%B3%D0%BE%D1%80%D0%BE%D0%B2%D0%B8%D1%87_%D0%9C-20.jpg 736w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Григорович М-20  1917 г.  Учебная летающая лодка около 80 экземпляров. прежние М-5 с небольшими изменениями конструкции.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/30bbcdbf1051d01d0be274eeccab0d5d/b4294/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XI.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.891891891891895%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAID/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABjUIB/8QAGBABAAMBAAAAAAAAAAAAAAAAEQACEyH/2gAIAQEAAQUCWPNbn//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABsQAAEEAwAAAAAAAAAAAAAAAAABAhEhIjEy/9oACAEBAAY/AoyKcujo/8QAGxAAAgIDAQAAAAAAAAAAAAAAAREAQSExYYH/2gAIAQEAAT8hKClNOP01QBAYeT//2gAMAwEAAgADAAAAEIAP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAIDAAMAAAAAAAAAAAAAAREhADFBUWGx/9oACAEBAAE/EKVJ0cDzXcRBVkmw8L++s1QAIcf/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Лебедев-Лебедь-XI&quot;
+        title=&quot;Лебедев-Лебедь-XI&quot;
+        src=&quot;/static/30bbcdbf1051d01d0be274eeccab0d5d/1c72d/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XI.jpg&quot;
+        srcset=&quot;/static/30bbcdbf1051d01d0be274eeccab0d5d/a80bd/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XI.jpg 148w,
+/static/30bbcdbf1051d01d0be274eeccab0d5d/1c91a/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XI.jpg 295w,
+/static/30bbcdbf1051d01d0be274eeccab0d5d/1c72d/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XI.jpg 590w,
+/static/30bbcdbf1051d01d0be274eeccab0d5d/b4294/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XI.jpg 600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Лебедев Лебедь-XI 1915 г  Морской
+Самолет-разведчик 15 машин&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7a2fbb4d2d8caae91bfb9fc332e5d63b/f941f/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XII.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 50.67567567567568%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAACHVAAAh1QEEnLSdAAAC0UlEQVQozw2Q20/SAQCF+Ydaq63ayvJB7aJYSooZ4BQRykhL8hLmJY1mUJiWs4tGmWit2rwEXlHTUEAh/aUmcTF1Znhr+tDrFw/n6Wzf2flEnlAE78o2E8EdPCs7COs7BLb2CG7ts7S5x/zGPsHNfUKbO3h//WZ+OcCvwCK+0Cr+jS1+/I6wGNkivLvHwuYuIruwQc9MGMd8GOdiCMfsMlM+L8KSC5cwwYwwzMzcIK5vI8z63uH52o7X2c9C0I979S/L2//w/9lGmHYTCv+MAufWsbvmGJkcom+on8FxL4O2bmzD73F6RxgY/sjbjla6Bhz0OYbwBX8irEX4tr6HM7BGINDF94ECRtubmf46iWgyGC2jtyaXQkz8COEOryBE/mKfnqe+tZPy2oeochVYzOlM9ZQx5bAy+6UOv9uA23YDh1WJ4Chkztka1bCGyDLm540zhHV8gdbP4zT1unnSv4h1VIgCLdwukqDJjsNcFYvtlZqGqnI+2xsZG3+NfayH3gk3NtcsnrVdPKvbiMQaHcm5t5AVVmBuasDS3kB31wN8Y5X4Bgv49ELG3VtpSGUqlDcquaqvRVFsQK03o6tppLC6HvWdx+SUPeJycT0iRXEGeXoZpcY8TC+v09Ol5Z01C2ubjOctZdyuqaH5+TWqjRr0RjUl93NQ6aTINXKk2VkkpktJkFwmVnyJpNQsRAUP4tCZzkRX4skuSUBRkoikIJnMohTUpakUVUgxPVFjfinnRWcGH20quvu0fOrVYv2gobElE+NTCZV159EbLiDKrzpOju4I+aUx5GpjkGadQFt0mqs34yktT8ZgSqPiXhp36yTcN13EYBTzsPECzyxS2joyeNsppu19QjTxtHTERR0mHSZFfIj01KNky2PIU57iiioWffFZmh9LedaUjqHuHNW1SZTok8nLP8Ml+UlSMo9yOvEg4vMHkGQeRKE8hkx5hP8rRy+1T9jz2wAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Лебедев-Лебедь-XII&quot;
+        title=&quot;Лебедев-Лебедь-XII&quot;
+        src=&quot;/static/7a2fbb4d2d8caae91bfb9fc332e5d63b/fcda8/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XII.png&quot;
+        srcset=&quot;/static/7a2fbb4d2d8caae91bfb9fc332e5d63b/12f09/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XII.png 148w,
+/static/7a2fbb4d2d8caae91bfb9fc332e5d63b/e4a3f/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XII.png 295w,
+/static/7a2fbb4d2d8caae91bfb9fc332e5d63b/fcda8/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XII.png 590w,
+/static/7a2fbb4d2d8caae91bfb9fc332e5d63b/f941f/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2-%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-XII.png 736w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Лебедев Лебедь-XII    1916 Фронтовой самолет 216 аппаратов&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e6944e737de9fed761fb69192d28fe18/d0cbf/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2_%D0%9B%D0%9C-2.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 67.56756756756756%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAv/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAXdRmCgTQ//EABsQAAICAwEAAAAAAAAAAAAAAAABAhMDERIy/9oACAEBAAEFArESlpdmT1YWJH//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAaEAACAwEBAAAAAAAAAAAAAAAAAQIRMRAh/9oACAEBAAY/Ai17y7ZF5JrUYf/EABwQAAICAwEBAAAAAAAAAAAAAAERADEhQWFxUf/aAAgBAQABPyEL3arMKJgEpjUI/Y2PhmWQfQPRKRN8n//aAAwDAQACAAMAAAAQsw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAcEAEBAAEFAQAAAAAAAAAAAAABEQAhMUFRgZH/2gAIAQEAAT8QJKpNiAxduTCOG0aF5esW8/uUAEaCE9x0ymKENnQ7YsYh1VB8z//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Лебедев_ЛМ-2&quot;
+        title=&quot;Лебедев_ЛМ-2&quot;
+        src=&quot;/static/e6944e737de9fed761fb69192d28fe18/1c72d/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2_%D0%9B%D0%9C-2.jpg&quot;
+        srcset=&quot;/static/e6944e737de9fed761fb69192d28fe18/a80bd/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2_%D0%9B%D0%9C-2.jpg 148w,
+/static/e6944e737de9fed761fb69192d28fe18/1c91a/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2_%D0%9B%D0%9C-2.jpg 295w,
+/static/e6944e737de9fed761fb69192d28fe18/1c72d/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2_%D0%9B%D0%9C-2.jpg 590w,
+/static/e6944e737de9fed761fb69192d28fe18/a8a14/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2_%D0%9B%D0%9C-2.jpg 885w,
+/static/e6944e737de9fed761fb69192d28fe18/d0cbf/%D0%9B%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2_%D0%9B%D0%9C-2.jpg 950w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Лебедев ЛМ-2 / Лебедь Морской №2    1914 г. Разведывательная летающая лодка ЛМ-2 &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cd00076902682450deff993c303a81df/c08c5/%D0%9C%D0%BE%D1%81%D0%BA%D0%B0_%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%91.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.432432432432435%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAdOPQglrFH//xAAYEAEBAAMAAAAAAAAAAAAAAAABAgADIf/aAAgBAQABBQJc27LlK45XaAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAVEQEBAAAAAAAAAAAAAAAAAAAQIf/aAAgBAgEBPwGn/8QAGhABAAEFAAAAAAAAAAAAAAAAABEBAhAhIv/aAAgBAQAGPwJza3ikof/EABoQAQADAQEBAAAAAAAAAAAAAAEAESExQXH/2gAIAQEAAT8hp8X4QRZY8vswK1OE5mdochkGE//aAAwDAQACAAMAAAAQRx//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QMX//xAAWEQEBAQAAAAAAAAAAAAAAAAAAMRH/2gAIAQIBAT8Qqsf/xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhUWExgdH/2gAIAQEAAT8QFgPfH0im6krDDHrtx00EUMDrswaVZyNeZCNmpXrCg0T/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Моска_Быстрицкий_МБ&quot;
+        title=&quot;Моска_Быстрицкий_МБ&quot;
+        src=&quot;/static/cd00076902682450deff993c303a81df/1c72d/%D0%9C%D0%BE%D1%81%D0%BA%D0%B0_%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%91.jpg&quot;
+        srcset=&quot;/static/cd00076902682450deff993c303a81df/a80bd/%D0%9C%D0%BE%D1%81%D0%BA%D0%B0_%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%91.jpg 148w,
+/static/cd00076902682450deff993c303a81df/1c91a/%D0%9C%D0%BE%D1%81%D0%BA%D0%B0_%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%91.jpg 295w,
+/static/cd00076902682450deff993c303a81df/1c72d/%D0%9C%D0%BE%D1%81%D0%BA%D0%B0_%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%91.jpg 590w,
+/static/cd00076902682450deff993c303a81df/c08c5/%D0%9C%D0%BE%D1%81%D0%BA%D0%B0_%D0%91%D1%8B%D1%81%D1%82%D1%80%D0%B8%D1%86%D0%BA%D0%B8%D0%B9_%D0%9C%D0%91.jpg 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Моска, Быстрицкий МБ / МБ бис   1915 г.  Самолет-разведчик  заказ
+(125 экз.). сдали 25&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8804435c526dda951e99aaf349e642f8/b4294/%D0%9F%D0%BE%D1%80%D0%BE%D1%85%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%90_%D0%90_%D0%9F-IV.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 39.189189189189186%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAABtINgH//EABgQAQADAQAAAAAAAAAAAAAAAAIBAxIh/9oACAEBAAEFArZ2t3lF8//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAIDAQEAAAAAAAAAAAAAAAABESIxEmL/2gAIAQEABj8CbuoyCvUei2n/xAAbEAEAAgIDAAAAAAAAAAAAAAABACERMUFhgf/aAAgBAQABPyFX7+5vyOKSeuTKOXap/9oADAMBAAIAAwAAABCDz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExQYGR/9oACAEBAAE/EKYegABRtDF2DkFt2HzOoQXD9J//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Пороховщиков_А_А_П-IV&quot;
+        title=&quot;Пороховщиков_А_А_П-IV&quot;
+        src=&quot;/static/8804435c526dda951e99aaf349e642f8/1c72d/%D0%9F%D0%BE%D1%80%D0%BE%D1%85%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%90_%D0%90_%D0%9F-IV.jpg&quot;
+        srcset=&quot;/static/8804435c526dda951e99aaf349e642f8/a80bd/%D0%9F%D0%BE%D1%80%D0%BE%D1%85%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%90_%D0%90_%D0%9F-IV.jpg 148w,
+/static/8804435c526dda951e99aaf349e642f8/1c91a/%D0%9F%D0%BE%D1%80%D0%BE%D1%85%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%90_%D0%90_%D0%9F-IV.jpg 295w,
+/static/8804435c526dda951e99aaf349e642f8/1c72d/%D0%9F%D0%BE%D1%80%D0%BE%D1%85%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%90_%D0%90_%D0%9F-IV.jpg 590w,
+/static/8804435c526dda951e99aaf349e642f8/b4294/%D0%9F%D0%BE%D1%80%D0%BE%D1%85%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2_%D0%90_%D0%90_%D0%9F-IV.jpg 600w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Пороховщиков А.А. П-IV / П-VI  1917 г. Учебно-тренировочный самолет. Серия из 40 машин. &lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 519px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/693daacf82cef6eeb691ff6ba8139d22/eac85/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-10.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.78378378378378%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQAB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAUNN1E4qP//EABoQAQACAwEAAAAAAAAAAAAAAAEAAwIQERL/2gAIAQEAAQUC9MbQhZizu//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABkQAAEFAAAAAAAAAAAAAAAAAAABIDJBkf/aAAgBAQAGPwKSYU3/xAAbEAEAAgIDAAAAAAAAAAAAAAABABEhMUFRcf/aAAgBAQABPyEN2nTFNt4wSyWTMrmGNT//2gAMAwEAAgADAAAAEC//AP/EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQADAQADAAAAAAAAAAAAAAEAESExYXGB/9oACAEBAAE/EFKu8QV9ilkk7xz1NqV4ZRmjewo0xibiTb7P/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Сикорский_С-10&quot;
+        title=&quot;Сикорский_С-10&quot;
+        src=&quot;/static/693daacf82cef6eeb691ff6ba8139d22/eac85/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-10.jpg&quot;
+        srcset=&quot;/static/693daacf82cef6eeb691ff6ba8139d22/a80bd/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-10.jpg 148w,
+/static/693daacf82cef6eeb691ff6ba8139d22/1c91a/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-10.jpg 295w,
+/static/693daacf82cef6eeb691ff6ba8139d22/eac85/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-10.jpg 519w&quot;
+        sizes=&quot;(max-width: 519px) 100vw, 519px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Сикорский С-10  1913 г.    Самолёт-разведчик Всего было построено 16 машин&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/cace22929961fc6161ce56c3b9d1084d/50112/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-12.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.08108108108109%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgP/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAF6F7mIB//EABwQAAICAgMAAAAAAAAAAAAAAAECAAMREhQhMf/aAAgBAQABBQJrtJyUMNz5Xwjoz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EAB4QAAECBwEAAAAAAAAAAAAAAAEAAhIgMTIzUWGS/9oACAEBAAY/AsbyNq1/lGGnRJ//xAAZEAADAQEBAAAAAAAAAAAAAAAAAREhMUH/2gAIAQEAAT8hv5HYiF5se+3gb0JehFT/2gAMAwEAAgADAAAAEEMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBUYGR/9oACAEBAAE/EBcceE+F7hoNzdqvpK8k1cBrjcwBKdLKsFOranGk/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Сикорский_С-12&quot;
+        title=&quot;Сикорский_С-12&quot;
+        src=&quot;/static/cace22929961fc6161ce56c3b9d1084d/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-12.jpg&quot;
+        srcset=&quot;/static/cace22929961fc6161ce56c3b9d1084d/a80bd/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-12.jpg 148w,
+/static/cace22929961fc6161ce56c3b9d1084d/1c91a/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-12.jpg 295w,
+/static/cace22929961fc6161ce56c3b9d1084d/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-12.jpg 590w,
+/static/cace22929961fc6161ce56c3b9d1084d/50112/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-12.jpg 623w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Сикорский С-12   1914 г.     Учебно-тренировочный самолётСикорский 9 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2fd8c58b93d23190a111c7ea4187cb23/fff7d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-16.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 72.97297297297297%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMFAQT/xAAVAQEBAAAAAAAAAAAAAAAAAAACA//aAAwDAQACEAMQAAABansiUhhZCv/EABsQAAICAwEAAAAAAAAAAAAAAAACAQMREhMi/9oACAEBAAEFAm8jtqdZkbA9ky1SLWn/xAAXEQADAQAAAAAAAAAAAAAAAAAAAQIR/9oACAEDAQE/AYhGn//EABYRAQEBAAAAAAAAAAAAAAAAAAECEP/aAAgBAgEBPwGrXP/EABoQAQABBQAAAAAAAAAAAAAAAAABAhAREiH/2gAIAQEABj8CdtlrSiH/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhQXEx/9oACAEBAAE/IWXRNgkNipYK2LjzQq8yBa99P//aAAwDAQACAAMAAAAQb9//xAAXEQEBAQEAAAAAAAAAAAAAAAABIQAx/9oACAEDAQE/ECdLm4b/xAAYEQACAwAAAAAAAAAAAAAAAAAAIQExUf/aAAgBAgEBPxCglC0//8QAGxABAAMBAAMAAAAAAAAAAAAAAQARITFRgaH/2gAIAQEAAT8QxE1VDk0ajcbuIlPEpokMt9VHIBulh33PM2NOrs//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Сикорский_С-16&quot;
+        title=&quot;Сикорский_С-16&quot;
+        src=&quot;/static/2fd8c58b93d23190a111c7ea4187cb23/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-16.jpg&quot;
+        srcset=&quot;/static/2fd8c58b93d23190a111c7ea4187cb23/a80bd/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-16.jpg 148w,
+/static/2fd8c58b93d23190a111c7ea4187cb23/1c91a/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-16.jpg 295w,
+/static/2fd8c58b93d23190a111c7ea4187cb23/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-16.jpg 590w,
+/static/2fd8c58b93d23190a111c7ea4187cb23/fff7d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%A1-16.jpg 659w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+Сикорский С-16 / С-XVI    1915 г&lt;br&gt;
+18 экземпляров 15 экземпляров С-16з&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2529aacaf2f82d209c1686a08ffc16f6/29b94/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%91.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 23.64864864864865%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHSskQEf//EABkQAAIDAQAAAAAAAAAAAAAAAAECAAMRIf/aAAgBAQABBQKlSF7Ahz//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/AaZh/8QAGxAAAQQDAAAAAAAAAAAAAAAAAAECERIhMTL/2gAIAQEABj8Cm2zoy5T/xAAaEAADAAMBAAAAAAAAAAAAAAAAAREhMVGR/9oACAEBAAE/IYg2V0Tt4OU02f/aAAwDAQACAAMAAAAQhD//xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAIAQMBAT8QW1v/xAAWEQEBAQAAAAAAAAAAAAAAAAAAAWH/2gAIAQIBAT8QkMH/xAAZEAEBAQEBAQAAAAAAAAAAAAABEQAhQZH/2gAIAQEAAT8QFjWR164lD4MV7ksDf//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Сикорский_Илья_Муромец_серии_Б&quot;
+        title=&quot;Сикорский_Илья_Муромец_серии_Б&quot;
+        src=&quot;/static/2529aacaf2f82d209c1686a08ffc16f6/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%91.jpg&quot;
+        srcset=&quot;/static/2529aacaf2f82d209c1686a08ffc16f6/a80bd/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%91.jpg 148w,
+/static/2529aacaf2f82d209c1686a08ffc16f6/1c91a/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%91.jpg 295w,
+/static/2529aacaf2f82d209c1686a08ffc16f6/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%91.jpg 590w,
+/static/2529aacaf2f82d209c1686a08ffc16f6/a8a14/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%91.jpg 885w,
+/static/2529aacaf2f82d209c1686a08ffc16f6/29b94/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%91.jpg 897w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Сикорский Илья Муромец серии Б 1915   6 экземпляров “ИМ” тип Б&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/2d86553be3ff82e3d33d4a4c66c62b32/6eb5d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%92.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.94594594594595%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAECA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAFUwzILP//EABcQAAMBAAAAAAAAAAAAAAAAAAABEEH/2gAIAQEAAQUCjmH/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAABECAh/9oACAEBAAY/Atgr/8QAHBABAAIBBQAAAAAAAAAAAAAAAQAhERBBcZGx/9oACAEBAAE/IQNnUxRiuYEb9hHT/9oADAMBAAIAAwAAABBAD//EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAEDAQE/EBn/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCH/8QAHBABAAICAwEAAAAAAAAAAAAAAQARITFBgbGR/9oACAEBAAE/EEbUrDtcQVEpvn2Y8lEB8M1nknM//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Сикорский_Илья_Муромец_серии_В&quot;
+        title=&quot;Сикорский_Илья_Муромец_серии_В&quot;
+        src=&quot;/static/2d86553be3ff82e3d33d4a4c66c62b32/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%92.jpg&quot;
+        srcset=&quot;/static/2d86553be3ff82e3d33d4a4c66c62b32/a80bd/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%92.jpg 148w,
+/static/2d86553be3ff82e3d33d4a4c66c62b32/1c91a/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%92.jpg 295w,
+/static/2d86553be3ff82e3d33d4a4c66c62b32/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%92.jpg 590w,
+/static/2d86553be3ff82e3d33d4a4c66c62b32/6eb5d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%92.jpg 807w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Сикорский Илья Муромец серии В (выпущено 30 единиц)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0259ef44f9be27e6df167df680b1e2df/ef245/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%93.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 25.675675675675674%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAFABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAIDBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAHTuImK/8QAGBABAQADAAAAAAAAAAAAAAAAAQIAEiL/2gAIAQEAAQUCma36yRD/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIREiFBUf/aAAgBAQAGPwJzr74RYysn/8QAGRAAAwADAAAAAAAAAAAAAAAAAAERMVGB/9oACAEBAAE/IX1pwgSqu4SNWz//2gAMAwEAAgADAAAAEAwP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QWf/EABURAQEAAAAAAAAAAAAAAAAAAAEQ/9oACAECAQE/EAGf/8QAGRABAAMBAQAAAAAAAAAAAAAAAQARIVGR/9oACAEBAAE/EFxa2hK9jWpeCQ48l0U1P//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Сикорский_Илья_Муромец_серии_Г&quot;
+        title=&quot;Сикорский_Илья_Муромец_серии_Г&quot;
+        src=&quot;/static/0259ef44f9be27e6df167df680b1e2df/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%93.jpg&quot;
+        srcset=&quot;/static/0259ef44f9be27e6df167df680b1e2df/a80bd/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%93.jpg 148w,
+/static/0259ef44f9be27e6df167df680b1e2df/1c91a/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%93.jpg 295w,
+/static/0259ef44f9be27e6df167df680b1e2df/1c72d/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%93.jpg 590w,
+/static/0259ef44f9be27e6df167df680b1e2df/a8a14/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%93.jpg 885w,
+/static/0259ef44f9be27e6df167df680b1e2df/ef245/%D0%A1%D0%B8%D0%BA%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%98%D0%BB%D1%8C%D1%8F_%D0%9C%D1%83%D1%80%D0%BE%D0%BC%D0%B5%D1%86_%D1%81%D0%B5%D1%80%D0%B8%D0%B8_%D0%93.jpg 1112w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Сикорский Илья Муромец серии Г   1915 г., поступило 32 таких аппарата&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Самолеты Австро-Венгрии в Первую мировую войну]]></title><description><![CDATA[Albatros(Oeffag) D.III  1917 Истребитель   280 самолетов под индексом “серия 153”  До выхода Австро-Венгрии из войны успели построить 20…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/автстро-венгрия/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/автстро-венгрия/</guid><pubDate>Sat, 25 Apr 2020 20:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c7cbf0bd411e371c9c18493ab7f03584/72e01/Albatros_Oeffag_D_III.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 66.89189189189189%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUCAwT/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB0yW12OhEH//EABoQAQEAAgMAAAAAAAAAAAAAAAEAAhMDERL/2gAIAQEAAQUC3BbyOTGV6clvSX//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAZEAADAAMAAAAAAAAAAAAAAAAAEDEBESH/2gAIAQEABj8ChC6WOr//xAAbEAADAAIDAAAAAAAAAAAAAAAAAREhMUFRgf/aAAgBAQABPyFo2mY9vRtV26IrpDN84NBcH//aAAwDAQACAAMAAAAQhD//xAAWEQADAAAAAAAAAAAAAAAAAAABEBH/2gAIAQMBAT8QEX//xAAWEQEBAQAAAAAAAAAAAAAAAAABEEH/2gAIAQIBAT8QRyf/xAAaEAEBAQEBAQEAAAAAAAAAAAABESEAMUGh/9oACAEBAAE/EPvSkwf3h/AyzgsSFo057H7eflXgYG97uGN29//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Albatros_Oeffag_D_III&quot;
+        title=&quot;Albatros_Oeffag_D_III&quot;
+        src=&quot;/static/c7cbf0bd411e371c9c18493ab7f03584/1c72d/Albatros_Oeffag_D_III.jpg&quot;
+        srcset=&quot;/static/c7cbf0bd411e371c9c18493ab7f03584/a80bd/Albatros_Oeffag_D_III.jpg 148w,
+/static/c7cbf0bd411e371c9c18493ab7f03584/1c91a/Albatros_Oeffag_D_III.jpg 295w,
+/static/c7cbf0bd411e371c9c18493ab7f03584/1c72d/Albatros_Oeffag_D_III.jpg 590w,
+/static/c7cbf0bd411e371c9c18493ab7f03584/a8a14/Albatros_Oeffag_D_III.jpg 885w,
+/static/c7cbf0bd411e371c9c18493ab7f03584/72e01/Albatros_Oeffag_D_III.jpg 1024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Albatros(Oeffag) D.III  1917 Истребитель   280 самолетов под индексом “серия 153”  До выхода Австро-Венгрии из войны успели построить 201 самолет. серии 253&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/9a865094a44450098c477b021795c92d/cdaca/Aviatik_(Berg)_B_I_B_II.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 61.48648648648649%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAC50lEQVQozwHcAiP9ABciNxYwemM+TJ9LIaFLHGUwFDwiEhYUDVcyMj4tLSsfHwUEBAkIBwoKCQYGBxYSDhQRDgUGBxQSEhIREgAfMUlfLi2ZNASXNgqXOg2jQQ+mRhOIQxqgUjKBTTRrSz4OCwkBAwQAAAAAAAAMCAcpGxIFBAYZFRUMCQoAUCEMkzMHlDgMmj0NokQRmEESnEMQn0ocpVUmslEYqVEdp1goekUlTTMhIRgPFhIPcE49DQcGAAADBAMDAGQ/P18pGoQ7GaBOKqBNKZFGIo9EHbNfLbZoOKZJGZtDGI4+GHIxFW5CLoBiUH5qXHZQQEsqGwoHBwsJCQBjapcdHis8Lix4Z3uGga6GeZKJbWqphG2shWygbVeWaFdsSz8uHBhzYVfXq43Qq5OUdmiLTDIjFxIeFhUAanOgKyUpOyokc2Z+kZHLiIGniHF0qo97sJB7p4ZzcFlSNSEcYDkm1ohP7Io66q99yLmxbz8sTiwaXEIxAF9smy4mKD4sI2BRYl9ahHJlhYxydpdqV7NwS1ksHCQREjgVEqJNIuB2MOKAN8yIUWtRQFYwH4I9HndVPQBZZ5QwJycqHhswKTM2KS9eRDuIZFKGRCapZDxdOiVfPyd1SiqoYy6vaDCXYTtjQy1eOSFwPyaCOBttQS0AOT9bIx0fSCsZe0krllkzm1UnlE0kc0AiYz0lYD0pWjopSzIjMSUcNSkjXUpAPSohTTIoZDkmYjAcZS4XADs2PWExGYY+GI5JJ5VbPpBcQJVoSZBsUY1qVItoVIZmU21TREYqHKNfMmxXSU41KEQgE4JfTZx2X49pUABjWVwrHR4aEhdbS0mHc2pqVkxzWU12Wk5bRD4+LChGMCc8KiJFJRagTRtmOiuJbF+EVEbFim/Von/FlXMAR16DQlh5U2J+VGJ9QlZ1NUxwO1F2QFZ5MEt1NjlNZUo8mn5uuqCKsoVvwX1n4rSZwo9uqHFPn2dFkV8+3b7eA+FdyhYAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Aviatik_(Berg)_B_I_B_II&quot;
+        title=&quot;Aviatik_(Berg)_B_I_B_II&quot;
+        src=&quot;/static/9a865094a44450098c477b021795c92d/fcda8/Aviatik_(Berg)_B_I_B_II.png&quot;
+        srcset=&quot;/static/9a865094a44450098c477b021795c92d/12f09/Aviatik_(Berg)_B_I_B_II.png 148w,
+/static/9a865094a44450098c477b021795c92d/e4a3f/Aviatik_(Berg)_B_I_B_II.png 295w,
+/static/9a865094a44450098c477b021795c92d/fcda8/Aviatik_(Berg)_B_I_B_II.png 590w,
+/static/9a865094a44450098c477b021795c92d/efc66/Aviatik_(Berg)_B_I_B_II.png 885w,
+/static/9a865094a44450098c477b021795c92d/c83ae/Aviatik_(Berg)_B_I_B_II.png 1180w,
+/static/9a865094a44450098c477b021795c92d/cdaca/Aviatik_(Berg)_B_I_B_II.png 2021w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Aviatik (Berg) B.I / B.II
+1914 Самолет-разведчик 	около 360 самолетов типов Р. 13, Р. 14 и Р. 15.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/98e7fb23d5f660fad2d12ed1e0cbe5a0/72e01/Aviatik_(Berg)_C.I.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 60.810810810810814%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEA//EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqBNi8Us//xAAaEAEBAAIDAAAAAAAAAAAAAAABAgADBBEh/9oACAEBAAEFArujHk7O9fsWqyYOf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAICAwAAAAAAAAAAAAAAAAACAREgITH/2gAIAQEABj8C0cLZYvD/xAAaEAEBAQADAQAAAAAAAAAAAAABEQAhMVFh/9oACAEBAAE/IVLKeboRxnIJfNAqzzDRyTf/2gAMAwEAAgADAAAAEGcf/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qh//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAgEBPxAdn//EABwQAQACAwADAAAAAAAAAAAAAAEAIRExQWGBwf/aAAgBAQABPxDF8winfmbylHApBv7ED9itYXapVdnOPqAOJ//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Aviatik_(Berg)_C.I&quot;
+        title=&quot;Aviatik_(Berg)_C.I&quot;
+        src=&quot;/static/98e7fb23d5f660fad2d12ed1e0cbe5a0/1c72d/Aviatik_(Berg)_C.I.jpg&quot;
+        srcset=&quot;/static/98e7fb23d5f660fad2d12ed1e0cbe5a0/a80bd/Aviatik_(Berg)_C.I.jpg 148w,
+/static/98e7fb23d5f660fad2d12ed1e0cbe5a0/1c91a/Aviatik_(Berg)_C.I.jpg 295w,
+/static/98e7fb23d5f660fad2d12ed1e0cbe5a0/1c72d/Aviatik_(Berg)_C.I.jpg 590w,
+/static/98e7fb23d5f660fad2d12ed1e0cbe5a0/a8a14/Aviatik_(Berg)_C.I.jpg 885w,
+/static/98e7fb23d5f660fad2d12ed1e0cbe5a0/72e01/Aviatik_(Berg)_C.I.jpg 1024w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Aviatik (Berg) C.I 1917  Фронтовой самолет  более 500 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/42890880b774ca5db59dab806b39fe04/e9f84/Aviatik_D_I.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 41.891891891891895%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAIABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAP/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABtQlA/8QAGRAAAgMBAAAAAAAAAAAAAAAAAQMAAhMR/9oACAEBAAEFAm6gL0FAzs//xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABsQAAEEAwAAAAAAAAAAAAAAAAABESJhAgMh/9oACAEBAAY/Ao4tbk0daOaVP//EABgQAQEBAQEAAAAAAAAAAAAAAAERACFh/9oACAEBAAE/IeSyuHYuiVUD5v/aAAwDAQACAAMAAAAQeB//xAAWEQEBAQAAAAAAAAAAAAAAAAABADH/2gAIAQMBAT8Q0kX/xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQIBAT8Q0ch3/8QAGhABAQEAAwEAAAAAAAAAAAAAEQEAMVGBwf/aAAgBAQABPxBAgAWXyYKmVEZb1TiZcWE+9//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Aviatik_D_I&quot;
+        title=&quot;Aviatik_D_I&quot;
+        src=&quot;/static/42890880b774ca5db59dab806b39fe04/1c72d/Aviatik_D_I.jpg&quot;
+        srcset=&quot;/static/42890880b774ca5db59dab806b39fe04/a80bd/Aviatik_D_I.jpg 148w,
+/static/42890880b774ca5db59dab806b39fe04/1c91a/Aviatik_D_I.jpg 295w,
+/static/42890880b774ca5db59dab806b39fe04/1c72d/Aviatik_D_I.jpg 590w,
+/static/42890880b774ca5db59dab806b39fe04/e9f84/Aviatik_D_I.jpg 672w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Aviatik D.I   1917  Истребитель   740 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/adba04a390170c22c27a5c66ff22d5ac/4b190/Aviatik_Berg_D_II.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 43.91891891891892%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAB05NCXBg0r//EABkQAAMAAwAAAAAAAAAAAAAAAAABAhIxMv/aAAgBAQABBQK8kK6Ex6no/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABoQAAICAwAAAAAAAAAAAAAAAAABECEiMXH/2gAIAQEABj8CpmTZqH2P/8QAGRAAAgMBAAAAAAAAAAAAAAAAAREAICFR/9oACAEBAAE/ITE5Mhzuwiw6Rf/aAAwDAQACAAMAAAAQny//xAAVEQEBAAAAAAAAAAAAAAAAAAABEP/aAAgBAwEBPxAZ/8QAGBEAAgMAAAAAAAAAAAAAAAAAAAERITH/2gAIAQIBAT8QdtIP/8QAHxABAAEEAQUAAAAAAAAAAAAAAQARITFBEFGhscHh/9oACAEBAAE/ECHV1Ep6hQCNBdrYtj7FFEOmZ52rxx//2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Aviatik_Berg_D_II&quot;
+        title=&quot;Aviatik_Berg_D_II&quot;
+        src=&quot;/static/adba04a390170c22c27a5c66ff22d5ac/1c72d/Aviatik_Berg_D_II.jpg&quot;
+        srcset=&quot;/static/adba04a390170c22c27a5c66ff22d5ac/a80bd/Aviatik_Berg_D_II.jpg 148w,
+/static/adba04a390170c22c27a5c66ff22d5ac/1c91a/Aviatik_Berg_D_II.jpg 295w,
+/static/adba04a390170c22c27a5c66ff22d5ac/1c72d/Aviatik_Berg_D_II.jpg 590w,
+/static/adba04a390170c22c27a5c66ff22d5ac/4b190/Aviatik_Berg_D_II.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Aviatik Berg D.II  1917  Истребитель  19 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8a78380ee9a959b5e1036970e6c2c699/4b190/Knoller_C_II.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.78378378378378%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAMABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAE/VuJAZ+P/xAAYEAEBAQEBAAAAAAAAAAAAAAACAAETIf/aAAgBAQABBQJ76cStakDtxNxF/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BV//EABwQAAICAgMAAAAAAAAAAAAAAAABAjEQMiFxgf/aAAgBAQAGPwJ8y8N5Ls2ZWKR//8QAHRABAAMAAQUAAAAAAAAAAAAAAQARIUExUWGBof/aAAgBAQABPyHCMXlBloA9UsY8Guo9zIpy/J5b0T//2gAMAwEAAgADAAAAEIv/AP/EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAwEBPxALC//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAECAQE/EKP/xAAdEAEAAgICAwAAAAAAAAAAAAABABEhMUFRkaHh/9oACAEBAAE/EHBbDWj5DE0NdoaDuCoR2tS9ws02ZT3tHWD4iG2crm9T/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Knoller_C_II&quot;
+        title=&quot;Knoller_C_II&quot;
+        src=&quot;/static/8a78380ee9a959b5e1036970e6c2c699/1c72d/Knoller_C_II.jpg&quot;
+        srcset=&quot;/static/8a78380ee9a959b5e1036970e6c2c699/a80bd/Knoller_C_II.jpg 148w,
+/static/8a78380ee9a959b5e1036970e6c2c699/1c91a/Knoller_C_II.jpg 295w,
+/static/8a78380ee9a959b5e1036970e6c2c699/1c72d/Knoller_C_II.jpg 590w,
+/static/8a78380ee9a959b5e1036970e6c2c699/4b190/Knoller_C_II.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Knoller C.II —1917 истребитель-разведчик. около 200 самолетов.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33b4cc24f60760cdcda1ee823721e5e6/4b190/Lloyd_C_I.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 69.5945945945946%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABA//aAAwDAQACEAMQAAAB6OEMk1EIn//EABkQAAMBAQEAAAAAAAAAAAAAAAABAhIRIv/aAAgBAQABBQKriTRqRenjgj//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARIT/9oACAECAQE/Aby0f//EABcQAQADAAAAAAAAAAAAAAAAABEAAiD/2gAIAQEABj8Ci1M//8QAHBAAAwACAwEAAAAAAAAAAAAAAAERMZFBcYGh/9oACAEBAAE/IcBX7BWoVsJiytnOg0qRdFJZ+H//2gAMAwEAAgADAAAAEBjP/8QAFhEBAQEAAAAAAAAAAAAAAAAAARAR/9oACAEDAQE/EDCf/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QWj//xAAcEAEAAgMAAwAAAAAAAAAAAAABABEhMUFxgZH/2gAIAQEAAT8Qoiy9aD2yu6fhX2yBFyHQTVGDepahQaFEFSp4j//Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Lloyd_C_I&quot;
+        title=&quot;Lloyd_C_I&quot;
+        src=&quot;/static/33b4cc24f60760cdcda1ee823721e5e6/1c72d/Lloyd_C_I.jpg&quot;
+        srcset=&quot;/static/33b4cc24f60760cdcda1ee823721e5e6/a80bd/Lloyd_C_I.jpg 148w,
+/static/33b4cc24f60760cdcda1ee823721e5e6/1c91a/Lloyd_C_I.jpg 295w,
+/static/33b4cc24f60760cdcda1ee823721e5e6/1c72d/Lloyd_C_I.jpg 590w,
+/static/33b4cc24f60760cdcda1ee823721e5e6/4b190/Lloyd_C_I.jpg 800w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lloyd C. I  1913
+разведывательный самолет  13 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/18eedc45e0075dfc7bdf4312f09a18b4/c08c5/Lloyd_C_II_C_III_IV.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFAf/EABUBAQEAAAAAAAAAAAAAAAAAAAEA/9oADAMBAAIQAxAAAAFgQ2KBPE//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQMRExD/2gAIAQEAAQUC1SFKmacss//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AYj/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPwGq/8QAFhAAAwAAAAAAAAAAAAAAAAAAACAh/9oACAEBAAY/AiL/AP/EABoQAQACAwEAAAAAAAAAAAAAAAEAERAhMVH/2gAIAQEAAT8hezUGtDKeRby//9oADAMBAAIAAwAAABA43//EABURAQEAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/EIH/xAAVEQEBAAAAAAAAAAAAAAAAAAAQEf/aAAgBAgEBPxCz/8QAHBAAAwABBQAAAAAAAAAAAAAAAAERITFRYXHw/9oACAEBAAE/EM1i3ehPA4Z6MSuVYXHUmuiz/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Lloyd_C_II_C_III_IV&quot;
+        title=&quot;Lloyd_C_II_C_III_IV&quot;
+        src=&quot;/static/18eedc45e0075dfc7bdf4312f09a18b4/1c72d/Lloyd_C_II_C_III_IV.jpg&quot;
+        srcset=&quot;/static/18eedc45e0075dfc7bdf4312f09a18b4/a80bd/Lloyd_C_II_C_III_IV.jpg 148w,
+/static/18eedc45e0075dfc7bdf4312f09a18b4/1c91a/Lloyd_C_II_C_III_IV.jpg 295w,
+/static/18eedc45e0075dfc7bdf4312f09a18b4/1c72d/Lloyd_C_II_C_III_IV.jpg 590w,
+/static/18eedc45e0075dfc7bdf4312f09a18b4/c08c5/Lloyd_C_II_C_III_IV.jpg 640w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lloyd C-II / C-III, IV   1915 г.   Самолет-разведчик
+100 самолетов × C.II
+50  самолетов × С. III
+40 самолетов  × С. IV&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/785eac111111db03412c437975cb7980/49b61/Lloyd_C_V.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.27027027027026%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgAD/8QAFAEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB2LCaRk//xAAaEAEAAwADAAAAAAAAAAAAAAABAAIREhMh/9oACAEBAAEFAr4TsxfUvyjQIM//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQMBAT8BjD//xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQIBAT8Brb//xAAaEAACAgMAAAAAAAAAAAAAAAAAERAhATGB/9oACAEBAAY/AqeBVw3Dj//EABwQAQACAgMBAAAAAAAAAAAAAAEAESExQWFx4f/aAAgBAQABPyEJs8XqYtPeUAiB7CoFREWNbWZmD5P/2gAMAwEAAgADAAAAECTv/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARQf/aAAgBAwEBPxAHSSu3/8QAFhEBAQEAAAAAAAAAAAAAAAAAAQAR/9oACAECAQE/EFQwzL//xAAdEAEAAgICAwAAAAAAAAAAAAABABExQSFxkeHx/9oACAEBAAE/EFIN4RXZ8g2japyux58MDNr6DUxQhZri5V/QjGS3nFhn/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Lloyd_C_V&quot;
+        title=&quot;Lloyd_C_V&quot;
+        src=&quot;/static/785eac111111db03412c437975cb7980/1c72d/Lloyd_C_V.jpg&quot;
+        srcset=&quot;/static/785eac111111db03412c437975cb7980/a80bd/Lloyd_C_V.jpg 148w,
+/static/785eac111111db03412c437975cb7980/1c91a/Lloyd_C_V.jpg 295w,
+/static/785eac111111db03412c437975cb7980/1c72d/Lloyd_C_V.jpg 590w,
+/static/785eac111111db03412c437975cb7980/49b61/Lloyd_C_V.jpg 752w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Lloyd C –V  1917 Вспомогательный самолет
+C. V s построенный Lloyd с двигателем Austro-Daimler 96 самолетов
+C. V s построенный WKF с двигателем Benz 48 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b40f1b03200c60ea601d0bc30219abde/e8588/Lohner_B_I_B_II_B_IV_B_VI_B_VII.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 45.27027027027027%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAJABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABCg3cUcIFcf/EABsQAAIBBQAAAAAAAAAAAAAAAAACAQMREjFC/9oACAEBAAEFApYprkQ62jfB/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIR/9oACAEDAQE/Aa1T/8QAFhEBAQEAAAAAAAAAAAAAAAAAABIR/9oACAECAQE/AZxL/8QAGhAAAgIDAAAAAAAAAAAAAAAAAAECERAh0f/aAAgBAQAGPwLg3KVJGroWf//EABwQAAMAAQUAAAAAAAAAAAAAAAABEUEQITFhwf/aAAgBAQABPyFkVlykN4POJdw60vgwj//aAAwDAQACAAMAAAAQwO//xAAXEQEBAQEAAAAAAAAAAAAAAAABACFR/9oACAEDAQE/EAYSeS//xAAXEQEBAQEAAAAAAAAAAAAAAAABADFh/9oACAECAQE/EHQY6v/EAB8QAAEDAwUAAAAAAAAAAAAAAAEAESFhobExQVFx8P/aAAgBAQABPxAk0GBBc0ILIMbEwIJ6aMpptBhymsq6OVv91RsL/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Lohner_B_I_B_II_B_IV_B_VI_B_VII&quot;
+        title=&quot;Lohner_B_I_B_II_B_IV_B_VI_B_VII&quot;
+        src=&quot;/static/b40f1b03200c60ea601d0bc30219abde/1c72d/Lohner_B_I_B_II_B_IV_B_VI_B_VII.jpg&quot;
+        srcset=&quot;/static/b40f1b03200c60ea601d0bc30219abde/a80bd/Lohner_B_I_B_II_B_IV_B_VI_B_VII.jpg 148w,
+/static/b40f1b03200c60ea601d0bc30219abde/1c91a/Lohner_B_I_B_II_B_IV_B_VI_B_VII.jpg 295w,
+/static/b40f1b03200c60ea601d0bc30219abde/1c72d/Lohner_B_I_B_II_B_IV_B_VI_B_VII.jpg 590w,
+/static/b40f1b03200c60ea601d0bc30219abde/e8588/Lohner_B_I_B_II_B_IV_B_VI_B_VII.jpg 747w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;!-- Lohner B-I/B-II/B-IV/B-VI/B-VII/C-I 1912 Фронтовой самолет --&gt;
+&lt;!-- •	B.II -   96 самолетов --&gt;
+&lt;p&gt;•	B.III -   30 самолетов
+•	B.IV -   9 самолетов 8 из них Ufag
+•	B.V -   6 самолетов
+•	B.VI -   18 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Lohner E/L/M/R/T 1915 Разведывательная летающая лодка 123 самолета различных вариантов&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;II&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Oeffag G 6 1916   разведывательным летающим катером 12 самолетов в том числе 2 не завершено
+&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Phonix D-I/D-II/D-III  1917 Истребитель  Всего было произведено  160 самолетов - D1, 144 самолета - DII,  48 самолетов - D IIа . 29 самолетов - DIII.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Phonix/UFAG C-I  1918 Истребитель
+250 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ганза-Бранденбург D I  1916  Истребитель     123 самолета&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ганза-Бранденбург G. I  1915
+средний бомбардировщик  12 самолетов&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ганза-Бранденбург СС (KDW)  1916г.
+Истребитель-летающая лодка   73 самолета&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Самолеты Италии в Первую мировую войну]]></title><description><![CDATA[Cамолеты италии III Ansaldo - A.1 Ballila - 1917 -  Истребитель Всего построено 200 экземпляров. III Ansaldo - ISVA,    - 1918 -  . ISVA…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/италия/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/италия/</guid><pubDate>Sat, 25 Apr 2020 20:00:00 GMT</pubDate><content:encoded>&lt;h1&gt;Cамолеты италии&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ansaldo - A.1 Ballila - 1917 -  Истребитель Всего построено 200 экземпляров.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ansaldo - ISVA,    - 1918 -  . ISVA являлся гидроистребителем, созданным на базе SVA-2  построили порядка 50 машин&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;Ansaldo SVA.1(2) Разведчик-истребитель  1917   65 таких машин &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./III.jpg&quot; alt=&quot;III&quot; title=&quot;III&quot;&gt;&lt;/p&gt;
+&lt;p&gt;АНСАЛЬДО S.V.A.5     1917г разведчик и легкий бомбардировщик  1245 экземпляров&lt;/p&gt;
+&lt;p&gt;Ansaldo - SVA.9 ,10-1918 -Фронтовой самолет    более 50 экземпляров&lt;/p&gt;
+&lt;p&gt;Caproni - Ca.1 - Ca.3  - 1914 – Бомбардировщик.Сaproni Cа.1  162 машины   Ca. 3     269 аэропланов &lt;/p&gt;
+&lt;p&gt;Caproni - Ca.4 (Ca.40 - Ca.43) - 1916  Бомбардировщик   40 экземпляров &lt;/p&gt;
+&lt;p&gt;Caproni - Ca.5 (Ca.44 - Ca.47) - 1917 -  Бомбардировщик   255 экземпляров  &lt;/p&gt;
+&lt;p&gt;FIAT - R2 - 1918 – разведчик 129 машин&lt;/p&gt;
+&lt;p&gt;Macchi NIEUPORT 11000 N.11 Bebe  Истребитель 1915г.&lt;/p&gt;
+&lt;p&gt;Macchi - M.5- M.6 - 1917 летающая лодка истребитель 240 экземпляров&lt;/p&gt;
+&lt;p&gt;MACCHI M.14    1918 Учебный Истребитель   10 экземпляров&lt;/p&gt;
+&lt;p&gt;Pomilio – PC-PD-PE - 1916 - Фронтовой самолет 545 экземпляров самолетов PC и PD (большинство - самолеты PD),&lt;/p&gt;
+&lt;p&gt; Pomilio – PE  1917  Разведывательный самолет    1071 экземпляр&lt;/p&gt;
+&lt;p&gt;SAML - S.1/S.2 - 1917 - Разведчик/легкий бомбардировщик&lt;/p&gt;
+&lt;p&gt;SIA - 7B / 7b2 /  - 1917 - Фронтовой самолет  501 экземпляр - SIA.7B,71- экземпляр SIA-7B2 &lt;/p&gt;
+&lt;p&gt;SIA 9B Легкий бомбардировщик 1917    62 экземпляра&lt;/p&gt;
+&lt;p&gt;SIAI - S.8 / S.9 – 1917  Разведчик и противолодочная летающая лодка 172 экземпляра&lt;/p&gt;
+&lt;p&gt;Savoia-Pomilio SP.2 1916  Разведчик-бомбардировщик 300 экземпляров&lt;/p&gt;
+&lt;p&gt;Savoia-Pomilio - SP.3- 1917 Разведчик-бомбардировщик 300  экземпляров&lt;/p&gt;
+&lt;p&gt;Savoia-Pomilio - SP.4 – 1917
+Разведчик-бомбардировщик
+146     экземпляров&lt;/p&gt;</content:encoded></item></channel></rss>
