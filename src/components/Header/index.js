@@ -1,60 +1,34 @@
-import React from "react"
 import { Link } from "gatsby"
-import { rhythm, scale } from "../../utils/typography"
-import "./style.scss"
+import React from "react"
+import classes from "./Header.module.scss"
+
+const rootPath = `${__PATH_PREFIX__}/`
 
 const Header = ({ location, title }) => {
-  const rootPath = `${__PATH_PREFIX__}/`
-  let header
+  const isMainPage = location.pathname === rootPath
 
-  if (location.pathname === rootPath) {
-    header = (
-      <h1
-        style={{
-          ...scale(1.5),
-          marginBottom: rhythm(1.5),
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-          }}
-          to={`/`}
-        >
-          {title}
-        </Link>
-      </h1>
-    )
-  } else {
-    header = (
-      <h3
-        style={{
-          fontFamily: `Montserrat, sans-serif`,
-          marginTop: 0,
-        }}
-      >
-        <Link
-          style={{
-            boxShadow: `none`,
-            color: `inherit`,
-          }}
-          to={`/`}
-          title="На главную"
-        >
-          ↩ {title}
-        </Link>
-      </h3>
-    )
-  }
+  const renderedMainPageHeader = (
+    <h1 className={classes.mainTitle}>
+      <Link className={classes.titleLink} to={`/`}>
+        {title}
+      </Link>
+    </h1>
+  )
+
+  const renderedOtherPagesHeader = (
+    <h3 className={classes.title}>
+      <Link className={classes.titleLink} to={`/`} title="На главную">
+        {`↩ ${title}`}
+      </Link>
+    </h3>
+  )
 
   return (
-  <header className="header">
+    <header className={classes.header}>
       <div className="container">
-        {header}
+        {isMainPage ? renderedMainPageHeader : renderedOtherPagesHeader}
       </div>
-  </header>
+    </header>
   )
 }
 

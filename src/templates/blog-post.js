@@ -1,6 +1,5 @@
+import { graphql, Link } from "gatsby"
 import React from "react"
-import { Link, graphql } from "gatsby"
-
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm, scale } from "../utils/typography"
@@ -16,6 +15,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
         title={post.frontmatter.title}
         description={post.frontmatter.description || post.excerpt}
       />
+
       <article>
         <div className="container">
           <header>
@@ -27,6 +27,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
             >
               {post.frontmatter.title}
             </h1>
+
             <p
               style={{
                 ...scale(-1 / 5),
@@ -37,6 +38,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
               {post.frontmatter.date}
             </p>
           </header>
+
           <section dangerouslySetInnerHTML={{ __html: post.html }} />
           <hr
             style={{
@@ -65,6 +67,7 @@ const BlogPostTemplate = ({ data, pageContext, location }) => {
                 </Link>
               )}
             </li>
+
             <li>
               {next && (
                 <Link to={next.fields.slug} rel="next">

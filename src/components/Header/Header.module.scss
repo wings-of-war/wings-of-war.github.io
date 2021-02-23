@@ -1,0 +1,23 @@
+@import 'assets/styles/imports';
+
+.header {
+    padding-top: 30px;
+}
+
+.mainTitle {
+    line-height: 1.2;
+    margin: 0 0 2.6rem;
+
+    @include media-breakpoint-up(md) {
+        font-size: 3.95rem;
+    }
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 0;
+}
+.titleLink {
+    box-shadow: none;
+    color: inherit;
+}
